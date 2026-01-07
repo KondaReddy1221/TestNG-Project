@@ -1,0 +1,1383 @@
+[2026-01-07 13:18:35] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 13:18:38] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 13:18:38] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 13:18:38] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 13:18:38] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 13:18:40] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 13:18:40] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 14:02:30] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 14:02:33] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 14:02:33] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 14:02:34] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 14:02:34] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 14:02:35] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 14:02:35] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 14:51:59] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 14:52:03] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 14:52:03] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 14:52:04] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 14:52:04] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 14:52:05] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 14:52:05] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 14:52:36] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 14:52:39] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 14:52:39] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 14:52:41] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 14:52:41] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 14:52:42] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 14:52:42] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 14:52:56] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 14:53:17] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 14:53:17] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 14:53:17] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 14:53:17] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 14:53:18] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 14:53:18] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 14:53:35] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 15:07:23] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 15:07:27] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 15:07:27] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 15:07:27] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 15:07:27] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 15:07:29] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 15:07:29] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 15:07:30] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 15:07:31] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 15:07:32] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 15:07:32] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 15:07:32] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 15:07:33] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 15:07:33] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 15:07:33] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 15:07:37] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 15:07:37] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 15:07:38] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 15:07:38] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 15:07:39] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 15:07:39] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 15:10:48] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 15:10:52] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 15:10:52] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 15:10:53] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 15:10:53] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 15:10:53] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 15:10:53] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 15:10:54] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 15:10:54] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 15:10:55] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 15:10:55] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 15:10:55] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 15:10:55] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 15:10:55] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 15:10:55] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 15:10:56] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 15:10:56] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 15:10:57] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 15:10:57] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 15:53:46] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 15:53:49] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 15:53:49] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 15:53:50] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 15:53:50] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 15:53:51] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 15:53:51] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:45:38] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 16:45:38] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2026-01-07 16:45:38] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 16:45:42] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6f139fc9: 0 ms
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 16:46:33] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 16:46:33] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2026-01-07 16:46:33] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 16:46:37] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 16:46:37] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 16:46:37] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 16:46:37] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 16:46:39] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 16:46:39] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 16:46:39] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@22a736d7: 0 ms
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:20:09] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:20:09] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2026-01-07 17:20:09] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:20:13] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@608bc8f8: 0 ms
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 19 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:24:18] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:24:18] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+[2026-01-07 17:24:18] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:24:21] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1835d3ed: 0 ms
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:10] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:27:10] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2026-01-07 17:27:10] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:27:14] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:27:14] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:27:15] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:27:15] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:27:16] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:27:16] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:27:16] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5fa23c: 0 ms
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:27:57] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:58] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:58] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:58] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:27:58] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:27:58] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:27:58] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2026-01-07 17:27:58] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:28:01] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:28:01] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:28:01] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:28:01] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:28:02] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:28:02] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:28:03] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@227a47: 0 ms
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:11] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:28:11] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[2026-01-07 17:28:11] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:28:14] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:28:14] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:28:15] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:28:15] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:28:16] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:28:16] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:28:16] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@43045f9f: 0 ms
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:28:47] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:28:47] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2026-01-07 17:28:47] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:28:50] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:28:50] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:28:50] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:28:50] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:28:51] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:28:52] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:28:52] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7aac8884: 0 ms
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:29:50] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:29:50] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2026-01-07 17:29:50] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:29:53] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:29:53] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:29:53] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:29:53] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:29:55] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:29:55] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:29:55] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@26f46fa6: 0 ms
+[2026-01-07 17:33:11] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:33:11] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:33:15] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:33:15] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:33:15] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:33:15] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:33:17] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:33:17] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:33:17] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:33:18] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:35:19] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:35:19] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:35:22] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:35:23] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:35:23] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:35:23] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:35:24] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:35:24] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:35:24] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:35:25] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:36:00] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:36:00] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:36:02] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:36:02] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:36:03] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:36:03] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:36:04] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:36:04] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:36:04] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:36:05] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:36:21] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:36:21] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:36:24] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:36:24] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:36:24] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:36:24] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:36:25] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:36:25] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:36:26] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:36:26] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:38:03] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:38:03] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:38:07] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:38:07] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:38:07] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:38:07] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:38:09] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:38:09] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:38:09] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:38:10] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:38:23] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:38:23] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[2026-01-07 17:38:23] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:38:26] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:38:26] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:38:26] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:38:26] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:38:27] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:38:27] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:38:27] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@60bbacfc: 0 ms
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:27] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:44:27] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+[2026-01-07 17:44:27] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:44:27] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:44:31] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:44:31] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:44:31] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:44:31] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:44:33] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:44:33] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:44:33] WARN  WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) ~[?:?]
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) ~[?:?]
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132) ~[netty-buffer-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[2026-01-07 17:44:33] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7aac8884: 0 ms
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:44:42] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:44:42] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2026-01-07 17:44:42] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:44:42] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:44:45] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:44:45] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:44:46] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:44:46] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:44:47] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:44:47] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:44:47] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7ff35a3f: 0 ms
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:45:02] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:45:02] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2026-01-07 17:45:02] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:45:02] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:45:06] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:45:06] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:45:06] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:45:06] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:45:10] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:45:10] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:45:11] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@63c12e52: 0 ms
+[2026-01-07 17:45:21] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:45:21] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:45:21] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:45:24] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:45:25] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:45:25] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:45:25] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:45:26] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:45:26] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:45:26] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:45:26] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:45:27] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:45:27] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:45:36] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:45:36] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:45:36] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:45:39] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:45:39] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:45:39] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:45:39] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:45:40] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:45:41] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:45:41] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:45:41] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:45:41] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:45:41] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:50:15] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:50:15] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:50:15] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:50:19] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:50:19] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:50:20] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:50:20] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:50:21] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:50:21] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:50:21] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:50:21] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:50:22] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:50:22] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:52:09] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:52:09] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:52:09] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:52:13] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:52:13] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:52:13] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:52:13] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:52:15] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:52:15] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:52:15] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:52:15] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:52:16] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:52:16] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:52:37] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:52:37] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:52:37] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:52:40] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:52:40] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:52:40] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:52:40] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:52:41] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:52:41] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:52:42] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:52:42] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:52:42] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:52:42] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:53:06] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 17:55:12] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 17:55:26] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:55:26] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:55:26] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:55:30] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:55:30] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:55:30] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:55:30] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:55:32] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:55:32] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:55:32] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:55:32] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:55:33] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 17:55:33] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:58:02] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 17:58:02] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:58:03] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 17:58:03] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 17:58:06] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:58:06] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:58:06] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:58:06] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:58:07] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:58:07] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:58:07] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:58:08] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+[2026-01-07 17:58:08] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-07 17:58:08] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 17:58:08] INFO  ResolutionCache - Clearing WebDriverManager resolution cache
+[2026-01-07 17:58:08] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again avoiding reading release from repository
+[2026-01-07 17:58:08] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 17:58:08] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+[2026-01-07 17:58:08] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 17:58:08] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1558) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1425) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1253) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1172) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1420) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1401) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1394) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:420) ~[webdrivermanager-5.4.1.jar:?]
+	at TestBase.BaseClass.setUp(BaseClass.java:48) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.net.InetAddress$CachedLookup.get(InetAddress.java:988) ~[?:?]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
+	... 34 more
+[2026-01-07 17:58:08] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:58:09] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+[2026-01-07 17:58:10] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\konda\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 17:58:23] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 17:58:23] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2026-01-07 17:58:24] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 17:58:25] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 17:58:25] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 17:58:27] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 17:58:27] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 17:58:27] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 17:58:27] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 17:58:29] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 17:58:29] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 17:58:29] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6ca30b8a: 1 ms
+[2026-01-07 17:58:42] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 17:59:27] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 18:00:25] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 18:00:45] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 18:07:48] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 18:07:48] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 18:07:48] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:07:51] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:07:52] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:07:52] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:07:52] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:07:53] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:07:53] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:08:02] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 18:08:02] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+[2026-01-07 18:08:02] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 18:08:02] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:08:05] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:08:05] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:08:05] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:08:05] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:08:07] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:08:07] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:08:07] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@26f46fa6: 0 ms
+[2026-01-07 18:08:17] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 18:08:17] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 18:08:17] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:08:20] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:08:20] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:08:21] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:08:21] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:08:22] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:08:22] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:08:22] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 18:08:22] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:08:22] INFO  TC001_AccountRegistration_Test - Log4j2 startup test - should appear in console and logs/automation.log
+[2026-01-07 18:08:22] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:12:09] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 18:12:09] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+[2026-01-07 18:12:09] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:12:10] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:12:10] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:12:12] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:12:12] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:12:13] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:12:13] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:12:14] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:12:14] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:12:14] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@329548d0: 0 ms
+[2026-01-07 18:12:21] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 18:12:21] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:12:22] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:12:22] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:12:24] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:12:24] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:12:24] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:12:24] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:12:26] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:12:26] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:12:26] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:12:27] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+[2026-01-07 18:12:27] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-07 18:12:27] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:12:27] INFO  ResolutionCache - Clearing WebDriverManager resolution cache
+[2026-01-07 18:12:27] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again avoiding reading release from repository
+[2026-01-07 18:12:27] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:12:27] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+[2026-01-07 18:12:27] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:12:27] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1558) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1425) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1253) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1172) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1420) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1401) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1394) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:420) ~[webdrivermanager-5.4.1.jar:?]
+	at TestBase.BaseClass.setUp(BaseClass.java:57) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.net.InetAddress$CachedLookup.get(InetAddress.java:988) ~[?:?]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
+	... 34 more
+[2026-01-07 18:12:27] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:12:28] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+[2026-01-07 18:12:28] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\konda\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2026-01-07 18:12:37] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 18:12:37] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:12:38] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:12:38] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:12:40] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:12:41] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:12:41] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:12:41] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:12:42] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:12:42] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:15:02] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 18:15:02] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:15:02] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:15:02] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:15:05] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:15:05] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:15:06] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:15:06] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:15:08] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:15:08] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:15:08] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:15:09] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+[2026-01-07 18:15:09] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-07 18:15:09] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:15:09] INFO  ResolutionCache - Clearing WebDriverManager resolution cache
+[2026-01-07 18:15:09] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again avoiding reading release from repository
+[2026-01-07 18:15:09] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:15:09] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+[2026-01-07 18:15:09] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:15:09] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1558) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1425) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1253) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1172) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1420) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1401) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1394) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:420) ~[webdrivermanager-5.4.1.jar:?]
+	at TestBase.BaseClass.setUp(BaseClass.java:56) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.net.InetAddress$CachedLookup.get(InetAddress.java:988) ~[?:?]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
+	... 34 more
+[2026-01-07 18:15:09] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:15:10] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+[2026-01-07 18:15:10] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\konda\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2026-01-07 18:15:27] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 18:15:27] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:15:28] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:15:28] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:15:30] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:15:30] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:15:30] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:15:30] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:15:31] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:15:31] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:15:38] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-07 18:15:38] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:15:39] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:15:39] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:15:41] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:15:41] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:15:41] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:15:41] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:15:42] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:15:42] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-07 18:15:49] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-07 18:15:49] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 2 ms.
+[2026-01-07 18:15:49] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:15:49] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:15:49] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:15:51] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:15:51] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:15:52] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:15:52] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:15:53] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:15:53] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:15:53] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3bc4ef12: 0 ms
+[2026-01-07 18:19:11] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-07 18:19:11] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:19:12] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-07 18:19:12] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-07 18:19:15] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-07 18:19:15] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-07 18:19:15] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-07 18:19:15] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-07 18:19:16] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-07 18:19:16] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-07 18:19:17] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:19:17] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+[2026-01-07 18:19:17] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-07 18:19:17] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:19:17] INFO  ResolutionCache - Clearing WebDriverManager resolution cache
+[2026-01-07 18:19:17] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again avoiding reading release from repository
+[2026-01-07 18:19:18] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:19:18] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+[2026-01-07 18:19:18] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-07 18:19:18] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1558) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1425) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1253) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1172) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1420) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1401) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1394) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:420) ~[webdrivermanager-5.4.1.jar:?]
+	at TestBase.BaseClass.setUp(BaseClass.java:57) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.net.InetAddress$CachedLookup.get(InetAddress.java:988) ~[?:?]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
+	... 34 more
+[2026-01-07 18:19:18] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-07 18:19:19] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+[2026-01-07 18:19:19] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\konda\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe

@@ -1,0 +1,4 @@
+{
+  // ...existing settings...
+  // Ensure no "java.jdt.ls.vmargs" or similar contains --enable-preview.
+}
