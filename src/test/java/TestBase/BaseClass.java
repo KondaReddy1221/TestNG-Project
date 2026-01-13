@@ -74,8 +74,17 @@ public class BaseClass {
 
 
     @AfterClass
-    public void tearDown() {
-        driver.quit();
+   public void tearDown() {
+        if (driver != null) {
+            try {
+                driver.quit();
+                logger.info("Browser closed");
+            } catch (Exception e) {
+                logger.warn("Error during driver.quit(): " + e.getMessage());
+            }
+        } else {
+            logger.warn("Driver was null in tearDown()");
+        }
     }
 
     protected String randomString() {
