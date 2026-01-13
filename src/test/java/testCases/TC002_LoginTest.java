@@ -20,9 +20,22 @@ public class TC002_LoginTest extends BaseClass {
             logger.info("Clicked on Login Option");
 
             Login_Page loginPage = new Login_Page(driver);
-            loginPage.enterEmail(p.getProperty("Email"));
+
+            String email = p.getProperty("Email");
+            String password = p.getProperty("Password");
+
+            if (email == null || email.trim().isEmpty()) {
+                logger.error("Email property is missing or empty in config.properties");
+                Assert.fail("Missing test data: Email");
+            }
+            if (password == null || password.trim().isEmpty()) {
+                logger.error("Password property is missing or empty in config.properties");
+                Assert.fail("Missing test data: Password");
+            }
+
+            loginPage.enterEmail(email);
             logger.info("Provided Email");
-            loginPage.enterPassword(p.getProperty("Password"));
+            loginPage.enterPassword(password);
             logger.info("Provided Password");
             loginPage.clickLoginButton();
             logger.info("Clicked on Login Button");
