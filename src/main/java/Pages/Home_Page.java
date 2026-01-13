@@ -19,6 +19,9 @@ public class Home_Page extends Base_page
     @FindBy(xpath = "//a[normalize-space()='Register']")
     public WebElement registerOption;
 
+    @FindBy(xpath = "//a[text()='Login']")
+    public WebElement loginOption;
+
     public void clickMyAccount()
     {
         myAccountLink.click();
@@ -28,6 +31,10 @@ public class Home_Page extends Base_page
     {
 
         registerOption.click();
+    }
+    public void  clickOnLoginOption()
+    {
+        loginOption.click();
     }
 
 }

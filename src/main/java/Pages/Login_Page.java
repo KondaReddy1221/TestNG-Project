@@ -12,8 +12,7 @@ public class Login_Page extends Base_page {
         super(driver);
     }
 
-    @FindBy(xpath ="//a[normalize-space()='Login']" )
-    public WebElement loginOption;
+
 
     @FindBy(xpath ="//input[@id='input-email']" )
     public WebElement emailField;
@@ -28,28 +27,22 @@ public class Login_Page extends Base_page {
     public WebElement loginErrorAlert;
 
 
-    @FindBy(xpath = "//h2[normalize-space()='My Account']")
-    public WebElement myAccountHeader;
-
-
-
-    public void clickLoginOption()
-    {
-        loginOption.click();
-    }
 
     public void enterEmail(String email)
     {
+
         emailField.sendKeys(email);
     }
 
     public void enterPassword(String password)
+
     {
         passwordField.sendKeys(password);
     }
 
     public void clickLoginButton()
     {
+
         loginButton.click();
     }
 

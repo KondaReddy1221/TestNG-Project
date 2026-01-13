@@ -6,8 +6,11 @@ import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.safari.SafariDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Optional;
@@ -26,6 +29,7 @@ public class BaseClass {
     public WebDriver driver;
     protected Logger logger;
     public Properties p;
+    protected WebDriverWait wait;
 
 
     @BeforeClass
@@ -48,15 +52,19 @@ public class BaseClass {
                 break;
 
             case "firefox":
-                WebDriverManager.firefoxdriver().setup();// ← setup Firefox driver
-                System.setProperty("webdriver.gecko.driver", "C:\\Drivers\\Firefox\\geckodriver.exe");
-                driver = new FirefoxDriver();
+                // use WebDriverManager and FirefoxOptions instead of hard-coded System.setProperty path
+                WebDriverManager.firefoxdriver().setup(); // ← setup Firefox driver
+                FirefoxOptions firefoxOptions = new FirefoxOptions();
+                driver = new FirefoxDriver(firefoxOptions);
                 break;
 
             case "edge":
+                // use WebDriverManager and EdgeOptions instead of hard-coded System.setProperty path
                 WebDriverManager.edgedriver().setup();     // ← setup Edge driver
-                driver = new EdgeDriver();
+                EdgeOptions edgeOptions = new EdgeOptions();
+                driver = new EdgeDriver(edgeOptions);
                 break;
+
 
             default:
                 logger.error("Browser not supported: " + browser + ". Launching Chrome.");

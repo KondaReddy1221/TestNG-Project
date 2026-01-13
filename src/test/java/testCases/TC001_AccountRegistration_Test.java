@@ -4,11 +4,7 @@ import Pages.Account_Registration_page;
 import Pages.Home_Page;
 import TestBase.BaseClass;
 import org.apache.commons.lang3.RandomStringUtils;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 public class TC001_AccountRegistration_Test extends BaseClass
