@@ -9,17 +9,15 @@
             <class name="testCases.TC001_AccountRegistration_Test"/>
         </classes>
     </test>
-
-    <test name="Edge">
-        <parameter name="browser" value="edge"/>
+    <test name="Firefox">
+        <parameter name="browser" value="firefox"/>
         <parameter name="os" value="windows"/>
         <classes>
             <class name="testCases.TC001_AccountRegistration_Test"/>
         </classes>
     </test>
-
-    <test name="Firefox">
-        <parameter name="browser" value="firefox"/>
+    <test name="Edge">
+        <parameter name="browser" value="edge"/>
         <parameter name="os" value="windows"/>
         <classes>
             <class name="testCases.TC001_AccountRegistration_Test"/>
