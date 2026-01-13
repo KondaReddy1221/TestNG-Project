@@ -3797,3 +3797,95 @@ Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
 	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
 	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
 	... 34 more
+[2026-01-13 11:16:33] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-13 11:16:33] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-13 11:16:33] INFO  TC001_AccountRegistration_Test - Requested browser: chrome, OS: windows
+[2026-01-13 11:16:34] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-13 11:16:35] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-13 11:16:36] INFO  TC001_AccountRegistration_Test - Launching Chrome browser
+[2026-01-13 11:16:37] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-13 11:16:37] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-13 11:16:37] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-13 11:16:37] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-13 11:16:38] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-13 11:16:39] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-13 11:16:39] INFO  TC001_AccountRegistration_Test - Browser closed
+[2026-01-13 11:16:39] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-13 11:16:39] INFO  TC001_AccountRegistration_Test - Requested browser: firefox, OS: windows
+[2026-01-13 11:16:40] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+[2026-01-13 11:16:40] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\konda\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2026-01-13 11:16:40] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-13 11:16:40] INFO  TC001_AccountRegistration_Test - Requested browser: edge, OS: windows
+[2026-01-13 11:16:41] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+[2026-01-13 11:16:41] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-13 11:16:41] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-13 11:16:41] INFO  ResolutionCache - Clearing WebDriverManager resolution cache
+[2026-01-13 11:16:41] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again avoiding reading release from repository
+[2026-01-13 11:16:41] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-13 11:16:41] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+[2026-01-13 11:16:41] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-13 11:16:41] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1558) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1425) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1253) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1172) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1420) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1401) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1394) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:420) ~[webdrivermanager-5.4.1.jar:?]
+	at TestBase.BaseClass.setUp(BaseClass.java:60) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.net.InetAddress$CachedLookup.get(InetAddress.java:988) ~[?:?]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
+	... 34 more
