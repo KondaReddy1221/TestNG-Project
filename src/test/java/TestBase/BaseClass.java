@@ -30,7 +30,7 @@ public class BaseClass {
 
     @BeforeClass
     @Parameters({"browser", "os"})
-    public void setUp(@Optional("firefox") String browser,
+    public void setUp(@Optional("chrome") String browser,
                       @Optional("windows") String os) throws IOException {
 
         new File("logs").mkdirs();
@@ -38,7 +38,6 @@ public class BaseClass {
 
         logger = LogManager.getLogger(this.getClass());
         logger.info("==== Test Started ====");
-        logger.info("Requested browser: " + browser + ", OS: " + os);
         System.out.println("Running on browser: " + browser);
 
         switch (browser.toLowerCase()) {
@@ -46,20 +45,17 @@ public class BaseClass {
             case "chrome":
                 WebDriverManager.chromedriver().setup();   // ← setup Chrome driver
                 driver = new ChromeDriver();
-                logger.info("Launching Chrome browser");
                 break;
 
             case "firefox":
                 WebDriverManager.firefoxdriver().setup();// ← setup Firefox driver
-               // System.setProperty("webdriver.gecko.driver", "C:\\Users\\konda\\.cache\\selenium");
+                System.setProperty("webdriver.gecko.driver", "C:\\Drivers\\Firefox\\geckodriver.exe");
                 driver = new FirefoxDriver();
-                logger.info("Launching Firefox browser");
                 break;
 
             case "edge":
                 WebDriverManager.edgedriver().setup();     // ← setup Edge driver
                 driver = new EdgeDriver();
-                logger.info("Launching Edge browser");
                 break;
 
             default:
@@ -79,16 +75,7 @@ public class BaseClass {
 
     @AfterClass
     public void tearDown() {
-        if (driver != null) {
-            try {
-                driver.quit();
-                logger.info("Browser closed");
-            } catch (Exception e) {
-                logger.warn("Error during driver.quit(): " + e.getMessage());
-            }
-        } else {
-            logger.warn("Driver was null in tearDown()");
-        }
+        driver.quit();
     }
 
     protected String randomString() {
