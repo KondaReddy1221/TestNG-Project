@@ -8875,3 +8875,624 @@ java.net.SocketException: Connection reset
 	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30) ~[netty-common-4.1.92.Final.jar:4.1.92.Final]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
 [2026-01-13 22:14:16] INFO  TC002_LoginTest - Browser closed
+[2026-01-13 22:18:53] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-13 22:18:54] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-13 22:18:54] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-13 22:18:54] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-13 22:18:56] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-13 22:18:56] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-13 22:18:56] INFO  TC002_LoginTest - Provided Email
+[2026-01-13 22:18:56] INFO  TC002_LoginTest - Provided Password
+[2026-01-13 22:18:57] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-13 22:18:57] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-13 22:18:57] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-13 22:18:58] INFO  TC002_LoginTest - Browser closed
+[2026-01-13 22:20:51] INFO  Utils - [Warning] The regular expression "verify_account_registration" didn't match any method in class testCases.TC002_LoginTest
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 24 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-13 22:20:51] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-13 22:20:51] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+[2026-01-13 22:20:51] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-13 22:20:52] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-13 22:20:52] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-13 22:20:55] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-13 22:20:55] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-13 22:20:55] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-13 22:20:55] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-13 22:20:57] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-13 22:20:57] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-13 22:20:57] INFO  TC001_AccountRegistration_Test - Browser closed
+[2026-01-13 22:20:57] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5a8c93: 0 ms
+[2026-01-13 22:22:33] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-13 22:22:33] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-13 22:22:34] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-13 22:22:34] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-13 22:22:36] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-13 22:22:36] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-13 22:22:36] INFO  TC002_LoginTest - Provided Email
+[2026-01-13 22:22:36] INFO  TC002_LoginTest - Provided Password
+[2026-01-13 22:22:36] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-13 22:22:37] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-13 22:22:37] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-13 22:22:37] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 11:48:15] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-14 11:48:15] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 11:48:16] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 11:48:16] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 11:48:19] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 11:48:19] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 11:48:20] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 11:48:20] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 11:48:20] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 11:48:21] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-14 11:48:21] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-14 11:48:21] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 11:59:18] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-14 11:59:19] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 11:59:19] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 11:59:19] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 11:59:22] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 11:59:22] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 11:59:23] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 11:59:23] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 11:59:23] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 11:59:33] ERROR TC002_LoginTest - Login Failed
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'alert-danger')]"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7016bcb17e297999ce026217aadb7aa9, findElement {using=xpath, value=//div[contains(@class,'alert-danger')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\konda\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55817}, goog:processID: 36932, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55817/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7016bcb17e297999ce026217aadb7aa9
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy31.getText(Unknown Source) ~[?:?]
+	at Pages.Login_Page.loginFailed(Login_Page.java:50) ~[classes/:?]
+	at testCases.TC002_LoginTest.Verify_LoginPage(TC002_LoginTest.java:42) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+[2026-01-14 11:59:33] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:00:23] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-14 12:00:23] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:00:24] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:00:24] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:00:27] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:00:28] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:00:28] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:00:28] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:00:29] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:00:39] ERROR TC002_LoginTest - Login Failed
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'alert-danger')]"}
+  (Session info: chrome=143.0.7499.193)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.9'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3959358accac12ecb70ff27ae9a01181, findElement {using=xpath, value=//div[contains(@class,'alert-danger')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.193, chrome: {chromedriverVersion: 143.0.7499.192 (be2c1f4fd45..., userDataDir: C:\Users\konda\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64403}, goog:processID: 3776, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64403/devtoo..., se:cdpVersion: 143.0.7499.193, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3959358accac12ecb70ff27ae9a01181
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349) ~[selenium-remote-driver-4.11.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.11.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.11.0.jar:?]
+	at jdk.proxy2.$Proxy31.getText(Unknown Source) ~[?:?]
+	at Pages.Login_Page.loginFailed(Login_Page.java:50) ~[classes/:?]
+	at testCases.TC002_LoginTest.Verify_LoginPage(TC002_LoginTest.java:42) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+[2026-01-14 12:00:39] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:10:52] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-14 12:10:52] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:10:52] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:10:52] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:10:55] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:10:56] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:10:56] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:10:56] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:10:56] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:10:57] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:16:19] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-14 12:16:19] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:16:19] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:16:19] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:16:22] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:16:22] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:16:22] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:16:22] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:16:22] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:16:23] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-14 12:16:23] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-14 12:16:23] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:16:54] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-14 12:16:54] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:16:54] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:16:54] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:16:56] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:16:57] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:16:57] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:16:57] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:16:57] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:17:07] WARN  TC002_LoginTest - Login failed with message: Warning: No match for E-Mail Address and/or Password.
+[2026-01-14 12:17:08] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:17:35] INFO  Utils - [TestNG] Running:
+  C:\Users\konda\AppData\Local\JetBrains\IdeaIC2024.1\temp-testng-customsuite.xml
+
+[2026-01-14 12:17:35] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:17:36] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:17:36] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:17:38] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:17:38] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:17:38] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:17:38] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:17:38] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:17:39] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-14 12:17:39] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-14 12:17:39] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:21:49] INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:21:49] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-14 12:21:49] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+[2026-01-14 12:21:49] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-14 12:21:49] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:21:49] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:21:51] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-14 12:21:52] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-14 12:21:52] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-14 12:21:52] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-14 12:21:53] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-14 12:21:53] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-14 12:21:54] INFO  TC001_AccountRegistration_Test - Browser closed
+[2026-01-14 12:21:54] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:21:54] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:21:54] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:21:55] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:21:56] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:21:56] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:21:56] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:21:56] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:21:57] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-14 12:21:57] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-14 12:21:57] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:21:57] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@10c47c79: 0 ms
+[2026-01-14 12:24:16] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\crossbrowserTesting.xml
+
+[2026-01-14 12:24:16] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-14 12:24:16] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:24:16] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:24:18] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-14 12:24:19] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-14 12:24:19] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-14 12:24:19] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-14 12:24:19] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-14 12:24:20] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-14 12:24:20] INFO  TC001_AccountRegistration_Test - Browser closed
+[2026-01-14 12:24:20] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:24:20] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:24:20] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:24:22] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:24:22] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:24:22] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:24:22] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:24:22] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:24:23] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-14 12:24:23] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-14 12:24:23] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:24:23] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-14 12:24:25] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+[2026-01-14 12:24:25] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\konda\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2026-01-14 12:24:25] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:24:27] INFO  WebDriverManager - Reading https://raw.githubusercontent.com/bonigarcia/webdrivermanager/master/docs/mirror/geckodriver to seek geckodriver
+[2026-01-14 12:24:27] INFO  WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\konda\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+[2026-01-14 12:24:27] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-14 12:24:27] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (No such host is known (msedgedriver.azureedge.net))
+[2026-01-14 12:24:28] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-14 12:24:28] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-14 12:24:28] INFO  ResolutionCache - Clearing WebDriverManager resolution cache
+[2026-01-14 12:24:28] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again avoiding reading release from repository
+[2026-01-14 12:24:28] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-14 12:24:28] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+[2026-01-14 12:24:28] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-14 12:24:28] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1558) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1425) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1253) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1172) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1420) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1401) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1394) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:420) ~[webdrivermanager-5.4.1.jar:?]
+	at TestBase.BaseClass.setUp(BaseClass.java:63) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.net.InetAddress$CachedLookup.get(InetAddress.java:988) ~[?:?]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
+	... 34 more
+[2026-01-14 12:24:28] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:24:28] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_RELEASE_143_WINDOWS to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-14 12:24:28] WARN  VersionDetector - Exception reading https://msedgedriver.azureedge.net/LATEST_STABLE to get latest version of msedgedriver (msedgedriver.azureedge.net)
+[2026-01-14 12:24:28] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-14 12:24:28] INFO  ResolutionCache - Clearing WebDriverManager resolution cache
+[2026-01-14 12:24:28] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again avoiding reading release from repository
+[2026-01-14 12:24:29] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-14 12:24:29] WARN  WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net) ... trying again using latest driver stored in cache
+[2026-01-14 12:24:29] INFO  WebDriverManager - Reading https://msedgedriver.azureedge.net/?restype=container&comp=list to seek msedgedriver
+[2026-01-14 12:24:29] ERROR WebDriverManager - There was an error managing msedgedriver (latest version) (java.net.UnknownHostException: msedgedriver.azureedge.net)
+io.github.bonigarcia.wdm.config.WebDriverManagerException: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1558) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.managers.EdgeDriverManager.getDriverUrls(EdgeDriverManager.java:115) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.createUrlHandler(WebDriverManager.java:1425) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.download(WebDriverManager.java:1253) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1172) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.fallback(WebDriverManager.java:1420) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1401) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:1394) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:1178) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:420) ~[webdrivermanager-5.4.1.jar:?]
+	at TestBase.BaseClass.setUp(BaseClass.java:63) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:69) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:390) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:325) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:180) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:122) ~[testng-7.8.0.jar:7.8.0]
+	at java.util.ArrayList.forEach(ArrayList.java:1596) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+Caused by: java.net.UnknownHostException: msedgedriver.azureedge.net
+	at java.net.InetAddress$CachedLookup.get(InetAddress.java:988) ~[?:?]
+	at java.net.InetAddress.getAllByName0(InetAddress.java:1818) ~[?:?]
+	at java.net.InetAddress.getAllByName(InetAddress.java:1688) ~[?:?]
+	at org.apache.hc.client5.http.SystemDefaultDnsResolver.resolve(SystemDefaultDnsResolver.java:43) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:141) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.io.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:447) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:162) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalExecRuntime.connectEndpoint(InternalExecRuntime.java:172) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ConnectExec.execute(ConnectExec.java:142) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ProtocolExec.execute(ProtocolExec.java:192) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.HttpRequestRetryExec.execute(HttpRequestRetryExec.java:96) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ContentCompressionExec.execute(ContentCompressionExec.java:152) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.RedirectExec.execute(RedirectExec.java:115) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.ExecChainElement.execute(ExecChainElement.java:51) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.InternalHttpClient.doExecute(InternalHttpClient.java:170) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:87) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.impl.classic.CloseableHttpClient.execute(CloseableHttpClient.java:55) ~[httpclient5-5.2.1.jar:5.2.1]
+	at org.apache.hc.client5.http.classic.HttpClient.executeOpen(HttpClient.java:183) ~[httpclient5-5.2.1.jar:5.2.1]
+	at io.github.bonigarcia.wdm.online.HttpClient.execute(HttpClient.java:162) ~[webdrivermanager-5.4.1.jar:?]
+	at io.github.bonigarcia.wdm.WebDriverManager.getDriversFromXml(WebDriverManager.java:1543) ~[webdrivermanager-5.4.1.jar:?]
+	... 34 more
+[2026-01-14 12:27:15] INFO  Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[2026-01-14 12:27:15] INFO  Utils - [TestNG] Running:
+  D:\for_Automation\TestNG-Project\master.xml
+
+[2026-01-14 12:27:15] INFO  Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 15 ms.
+[2026-01-14 12:27:15] INFO  TC001_AccountRegistration_Test - ==== Test Started ====
+[2026-01-14 12:27:16] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:27:16] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:27:19] INFO  TC001_AccountRegistration_Test - ---Starting TC001_AccountRegistration_Test---
+[2026-01-14 12:27:19] INFO  TC001_AccountRegistration_Test - ---Click on Account link---
+[2026-01-14 12:27:19] INFO  TC001_AccountRegistration_Test - ---Click on Register link---
+[2026-01-14 12:27:19] INFO  TC001_AccountRegistration_Test - --- providing the user details on Register page---
+[2026-01-14 12:27:20] INFO  TC001_AccountRegistration_Test - ---Validating expected message ---
+[2026-01-14 12:27:20] INFO  TC001_AccountRegistration_Test - ---Finished TC001_AccountRegistration_Test---
+[2026-01-14 12:27:20] INFO  TC001_AccountRegistration_Test - Browser closed
+[2026-01-14 12:27:20] INFO  TC002_LoginTest - ==== Test Started ====
+[2026-01-14 12:27:21] INFO  WebDriverManager - Using chromedriver 143.0.7499.192 (resolved driver for Chrome 143)
+[2026-01-14 12:27:21] INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\konda\.cache\selenium\chromedriver\win64\143.0.7499.192\chromedriver.exe
+[2026-01-14 12:27:22] INFO  TC002_LoginTest - ---Starting TC002_LoginTest---
+[2026-01-14 12:27:22] INFO  TC002_LoginTest - Clicked on Login Option
+[2026-01-14 12:27:23] INFO  TC002_LoginTest - Provided Email
+[2026-01-14 12:27:23] INFO  TC002_LoginTest - Provided Password
+[2026-01-14 12:27:23] INFO  TC002_LoginTest - Clicked on Login Button
+[2026-01-14 12:27:23] INFO  TC002_LoginTest - Login Successful - My Account Page Displayed
+[2026-01-14 12:27:23] INFO  TC002_LoginTest - ---Finished TC002_LoginTest---
+[2026-01-14 12:27:24] INFO  TC002_LoginTest - Browser closed
+[2026-01-14 12:27:24] INFO  Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@15a3b42: 0 ms
